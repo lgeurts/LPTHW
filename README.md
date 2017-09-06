@@ -1,2 +1,2 @@
 # LPTHW
-Exercises from Zed A. Shaw's "Learn Python the Hard Way"
+Exercises from Zed A. Shaw's 'Learn Python 3 the Hard Way'.
