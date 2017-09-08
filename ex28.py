@@ -19,4 +19,3 @@
 18.    1 == 1 and (not ("testing" == 1 or 1 == 0))  True
 19.    "chunky" == "bacon" and (not (3 == 4 or 3 == 3)) False
 20.    3 == 3 and (not ("testing" == "testing" or "Python" == "Fun"))   False
-
