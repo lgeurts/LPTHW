@@ -14,7 +14,7 @@
 13.    not (True and False)     True
 14.    not (1 == 1 and 0 != 1)  False
 15.    not (10 == 1 or 1000 == 1000)    False
-16.   not (1 != 10 or 3 == 4)   False
+16.    not (1 != 10 or 3 == 4)   False
 17.    not ("testing" == "testing" and "Zed" == "Cool Guy") True
 18.    1 == 1 and (not ("testing" == 1 or 1 == 0))  True
 19.    "chunky" == "bacon" and (not (3 == 4 or 3 == 3)) False
