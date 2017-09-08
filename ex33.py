@@ -37,4 +37,3 @@ def w_loop(count):
 
 print "Call function"
 print w_loop(10)
-
