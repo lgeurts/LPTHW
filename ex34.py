@@ -11,4 +11,3 @@ animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
     The animal at 2.            'python'
     The sixth (6th) animal.     animals[5]
     The animal at 4.            'kangaroo'
-
