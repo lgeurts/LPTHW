@@ -35,5 +35,3 @@ start_point = start_point / 10
 
 print "We can also do that this way:"
 print "We'd have %d beans, %d jars, and %d crates." % secret_formula(start_point)
-
-        
