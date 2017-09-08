@@ -1,11 +1,11 @@
 # Exercise 5: More Variables and Printing
 
 # Variables
-name = 'Paul Carroty'
-age = 35 #not a lie
-height = 74 #inches
-weight = 180 #lbs
-eyes = 'Blue'
+name = 'Luc Geurts'
+age = 52 #not a lie
+height = 66 #inches
+weight = 158 #lbs
+eyes = 'Green'
 teeth = 'White'
 hair = 'Brown'
 
