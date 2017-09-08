@@ -28,6 +28,3 @@ print "Let's print three lines:"
 
 for current_line in range(1,4):
     print_a_line(current_line, current_file)
-
-
-
