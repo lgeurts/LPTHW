@@ -14,4 +14,3 @@ print "Your third variable is:", third
 #Your first variable is: first
 #Your second variable is: 2nd
 #Your third variable is: 3rd
-
