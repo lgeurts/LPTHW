@@ -1,6 +1,6 @@
 # Read Me
 
-[![AUR](https://img.shields.io/aur/license/apt)](https://github.com/lgeurts/LPTHW) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![AUR](https://img.shields.io/aur/license/apt)](https://github.com/lgeurts/LPTHW/blob/master/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
 # Learn Python 3 THE HARD WAY.
 
