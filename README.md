@@ -2,7 +2,7 @@
 
 [![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/lgeurts/LPTHW/blob/master/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
-# Learn Python 3 THE HARD WAY.
+# Learn Python the HARD WAY.
 
 First lesson to be learned:
 
